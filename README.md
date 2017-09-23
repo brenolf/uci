@@ -24,6 +24,5 @@
 - wdbc 569 30
 - iris 150 4
 - Wine 178 13
-- balloons 16 4
 - bc-wisc 699 9
 - libras 360 90 
