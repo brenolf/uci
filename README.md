@@ -8,7 +8,7 @@
 
 ## muitos atributos, poucas amostras
 - arrhythmia 452 279
-- low-res-spect 531 100
+- low-res-spect 531 101
 - hill-valley 606 100
 
 ## desbalanceado
