@@ -2,7 +2,7 @@
 - Letter 20000 16
 - adult 48842 14
 - contrac 1473 9
-- poker-hand 1025010 11
+- poker-hand 1025010 10
 - ht-sensor 919438 11
 - census-income-kdd 299285 39
 
