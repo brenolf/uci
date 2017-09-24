@@ -7,7 +7,7 @@
 - census-income-kdd 299285 39
 
 ## muitos atributos, poucas amostras
-- arrhythmia 452 279
+- arrhythmia 452 279 (68 amostras sem nan)
 - low-res-spect 531 101
 - hill-valley 606 100
 
