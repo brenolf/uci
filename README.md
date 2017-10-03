@@ -4,7 +4,6 @@
 - contrac 1473 9
 - poker-hand 1025010 10
 - ht-sensor 919438 11
-- census-income-kdd 299285 39
 
 ## muitos atributos, poucas amostras
 - low-res-spect 531 101
